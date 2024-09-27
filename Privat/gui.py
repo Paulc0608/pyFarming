@@ -20,11 +20,11 @@ def melon():
 
         time.sleep(0.5)
         pyautogui.keyDown('d')
-        pyautogui.keyDown('w')
+        #pyautogui.keyDown('w')
         pyautogui.keyDown('q')
 
 
-        sleep(340)
+        sleep(540)#340
         if stop_event.is_set():
             break
 
@@ -32,9 +32,9 @@ def melon():
         yaw()
         pyautogui.keyDown('a')
         pyautogui.keyDown('q')
-        pyautogui.keyDown('w')
+        #pyautogui.keyDown('w')
 
-        sleep(340)
+        sleep(540)
         if stop_event.is_set():
             break
 
@@ -42,9 +42,9 @@ def melon():
         yaw()
         pyautogui.keyDown('d')
         pyautogui.keyDown('q')
-        pyautogui.keyDown('w')
+        #pyautogui.keyDown('w')
 
-        sleep(340)
+        sleep(540)
         if stop_event.is_set():
             break
 
@@ -52,9 +52,9 @@ def melon():
         yaw()
         pyautogui.keyDown('a')
         pyautogui.keyDown('q')
-        pyautogui.keyDown('w')
+        #pyautogui.keyDown('w')
 
-        sleep(340)
+        sleep(540)
         if stop_event.is_set():
             break
 
@@ -62,9 +62,9 @@ def melon():
         yaw()
         pyautogui.keyDown('d')
         pyautogui.keyDown('q')
-        pyautogui.keyDown('w')
+        #pyautogui.keyDown('w')
 
-        sleep(340)
+        sleep(540)
         if stop_event.is_set():
             break
 
@@ -72,9 +72,9 @@ def melon():
         yaw()
         pyautogui.keyDown('a')
         pyautogui.keyDown('q')
-        pyautogui.keyDown('w')
+        #pyautogui.keyDown('w')
 
-        sleep(340)
+        sleep(540)
         if stop_event.is_set():
             break
 
@@ -82,9 +82,9 @@ def melon():
         yaw()
         pyautogui.keyDown('d')
         pyautogui.keyDown('q')
-        pyautogui.keyDown('w')
+        #pyautogui.keyDown('w')
 
-        sleep(340)
+        sleep(540)
         if stop_event.is_set():
             break
 
@@ -92,9 +92,9 @@ def melon():
         yaw()
         pyautogui.keyDown('a')
         pyautogui.keyDown('q')
-        pyautogui.keyDown('w')
+        #pyautogui.keyDown('w')
 
-        sleep(340)
+        sleep(540)
         if stop_event.is_set():
             break
 
@@ -102,9 +102,9 @@ def melon():
         yaw()
         pyautogui.keyDown('d')
         pyautogui.keyDown('q')
-        pyautogui.keyDown('w')
+        #pyautogui.keyDown('w')
 
-        sleep(340)
+        sleep(540)
         if stop_event.is_set():
             break
 
@@ -112,9 +112,9 @@ def melon():
         yaw()
         pyautogui.keyDown('a')
         pyautogui.keyDown('q')
-        pyautogui.keyDown('w')
+        #pyautogui.keyDown('w')
 
-        sleep(340)
+        sleep(540)
         if stop_event.is_set():
             break
 
@@ -122,9 +122,9 @@ def melon():
         yaw()
         pyautogui.keyDown('d')
         pyautogui.keyDown('q')
-        pyautogui.keyDown('w')
+        #pyautogui.keyDown('w')
 
-        sleep(340)
+        sleep(540)
         if stop_event.is_set():
             break
 
@@ -132,9 +132,9 @@ def melon():
         yaw()
         pyautogui.keyDown('a')
         pyautogui.keyDown('q')
-        pyautogui.keyDown('w')
+        #pyautogui.keyDown('w')
 
-        sleep(340)
+        sleep(540)
         if stop_event.is_set():
             break
 

@@ -32,7 +32,7 @@ def melon():
         yaw()
         pyautogui.keyDown('a')
         pyautogui.keyDown('q')
-        #pyautogui.keyDown('w')
+        #pyautogui.keyDown('w') must be incommented
 
         sleep(540)
         if stop_event.is_set():
